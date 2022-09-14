@@ -1,4 +1,4 @@
-u{
+{
   "am2.bosses.EntityAirGuardian": [
     "hostile",
     "flightFlap|false"
@@ -92,13 +92,13 @@ u{
     "waterAllergy"
   ],
   "com.emoniph.witchery.entity.EntityOwl": [
-    "flightFlap|true"
+    "flightFlap||true"
   ],
   "com.emoniph.witchery.entity.EntityBabaYaga": [
     "hostile"
   ],
   "com.emoniph.witchery.entity.EntityBroom": [
-    "flightFlap|true"
+    "flightFlap||true"
   ],
   "com.emoniph.witchery.entity.EntityCorpse": [
     "hostile"
@@ -110,7 +110,7 @@ u{
     "hostile"
   ],
   "com.emoniph.witchery.entity.EntityNightmare": [
-    "flightFlap|true",
+    "flightFlap||true",
     "hostile"
   ],
   "com.emoniph.witchery.entity.EntityToad": [
@@ -126,7 +126,7 @@ u{
     "hostile"
   ],
   "com.github.revival.common.entity.mob.EntityAnu": [
-    "flightFlap|true",
+    "flightFlap||true",
     "hostile",
     "fallNegate",
     "fireImmunity"
@@ -149,7 +149,7 @@ u{
     "hostile"
   ],
   "com.github.revival.common.entity.mob.EntityConfuciusornis": [
-    "flightFlap|true",
+    "flightFlap||true",
     "fallNegate"
   ],
   "com.github.revival.common.entity.mob.EntityDeinonychus": [
@@ -183,7 +183,7 @@ u{
     "hostile"
   ],
   "com.github.revival.common.entity.mob.EntityPterosaur": [
-    "flightFlap|true"
+    "flightFlap||true"
   ],
   "com.github.revival.common.entity.mob.EntityQuagga": [
     "step|1F"
@@ -221,24 +221,24 @@ u{
     "hostile"
   ],
   "com.lom.lotsomobsentity.EntityBee": [
-    "flightFlap|true"
+    "flightFlap||true"
   ],
   "com.lom.lotsomobsentity.EntityBird": [
-    "flightFlap|true"
+    "flightFlap||true"
   ],
-  "com.lom.lotsomobsentity.EntityButterflightFlap": [
+  "com.lom.lotsomobsentity.EntityButterfly": [
     "flightFlap|true"
   ],
   "com.lom.lotsomobsentity.EntityCroco": [
     "hostile"
   ],
-  "com.lom.lotsomobsentity.EntityFireflightFlap": [
+  "com.lom.lotsomobsentity.EntityFireFly": [
     "flightFlap|true"
   ],
   "com.lom.lotsomobsentity.EntityFishy": [
     "swim|false,1.2F,1F,true"
   ],
-  "com.lom.lotsomobsentity.EntityflightFlap": [
+  "com.lom.lotsomobsentity.EntityFly": [
     "flightFlap|true"
   ],
   "com.lom.lotsomobsentity.EntityPolarBear": [
@@ -366,11 +366,11 @@ u{
   "danger.orespawn.Beaver": [
     "swim|true"
   ],
-  "danger.orespawn.EntityButterflightFlap": [
+  "danger.orespawn.EntityButterfly": [
     "flightFlap|true",
     "waterAllergy"
   ],
-  "danger.orespawn.FireflightFlap": [
+  "danger.orespawn.Firefly": [
     "flightFlap|true",
     "waterAllergy"
   ],
@@ -424,7 +424,7 @@ u{
     "waterAllergy",
     "flightFlap|true"
   ],
-  "danger.orespawn.DragonflightFlap": [
+  "danger.orespawn.Dragonfly": [
     "flightFlap|true",
     "waterAllergy"
   ],
@@ -652,23 +652,23 @@ u{
     "flightFlap|false",
     "waterAllergy"
   ],
-  "drzhark.mocreatures.entity.ambient.MoCEntityButterflightFlap": [
+  "drzhark.mocreatures.entity.ambient.MoCEntityButterfly": [
     "flightFlap|false"
   ],
-  "drzhark.mocreatures.entity.ambient.MoCEntityDragonflightFlap": [
+  "drzhark.mocreatures.entity.ambient.MoCEntityDragonfly": [
     "flightFlap|false"
   ],
-  "drzhark.mocreatures.entity.ambient.MoCEntityFireflightFlap": [
+  "drzhark.mocreatures.entity.ambient.MoCEntityFirefly": [
     "flightFlap|false"
   ],
-  "drzhark.mocreatures.entity.ambient.MoCEntityflightFlap": [
+  "drzhark.mocreatures.entity.ambient.MoCEntityFly": [
     "flightFlap|false"
   ],
   "drzhark.mocreatures.entity.aquatic.MoCEntityDolphin": [
     "swim|false,1.8F,0.6F,true",
     "hostile"
   ],
-  "drzhark.mocreatures.entity.MoCEntityflightFlaperMob": [
+  "drzhark.mocreatures.entity.MoCEntityFlyerMob": [
     "flightFlap|true"
   ],
   "drzhark.mocreatures.entity.aquatic.MoCEntityFishy": [
@@ -755,7 +755,7 @@ u{
   "erebus.entity.EntityBombardierBeetle": [
     "hostile"
   ],
-  "erebus.entity.EntityBotflightFlap": [
+  "erebus.entity.EntityBotFly": [
     "flightFlap|true",
     "hostile"
   ],
@@ -774,7 +774,7 @@ u{
     "hostile",
     "fireImmunity"
   ],
-  "erebus.entity.EntityflightFlap": [
+  "erebus.entity.EntityFly": [
     "flightFlap|true"
   ],
   "erebus.entity.EntityGrasshopper": [
@@ -1535,7 +1535,7 @@ u{
   "net.aetherteam.aether.entities.mounts.EntityAerbunny": [
     "float|-0.114,true"
   ],
-  "net.aetherteam.aether.entities.mounts.EntityflightFlapingCow": [
+  "net.aetherteam.aether.entities.mounts.EntityFlyingCow": [
     "flightFlap|true"
   ],
   "net.aetherteam.aether.entities.mounts.EntityMoa": [
@@ -1598,7 +1598,7 @@ u{
     "flightFlap|true",
     "hostile"
   ],
-  "noppes.animalbikes.entity.EntityPonyflightFlapingBike": [
+  "noppes.animalbikes.entity.EntityPonyFlyingBike": [
     "flightFlap|true"
   ],
   "noppes.animalbikes.entity.EntityNotchBike": [
@@ -1635,7 +1635,7 @@ u{
   "noppes.animalbikes.entity.types.EntityRidableSwimming": [
     "swim|false"
   ],
-  "noppes.animalbikes.entity.types.EntityRidableflightFlaping": [
+  "noppes.animalbikes.entity.types.EntityRidableFlying": [
     "flightFlap|true"
   ],
   "sekwah.mods.NarutoMod.Entitys.EntityPuppet": [
@@ -1975,7 +1975,7 @@ u{
   "tropicraft.entities.passive.land.Iguana": [
     "hostile"
   ],
-  "tropicraft.entities.passive.flightFlaping.Failgull": [
+  "tropicraft.entities.passive.flying.Failgull": [
     "flightFlap|true"
   ],
   "tropicraft.entities.hostile.land.tribes.ashen.AshenHunter": [
@@ -2033,7 +2033,7 @@ u{
     "climb",
     "fallNegate"
   ],
-  "twilightforest.entity.passive.EntityTFMobileFireflightFlap": [
+  "twilightforest.entity.passive.EntityTFMobileFirefly": [
     "flightFlap|true"
   ],
   "twilightforest.entity.passive.EntityTFRaven": [
